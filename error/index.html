@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html onclick="document.querySelector('.load').classList.remove('loaded'); back();">
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="../img/Logo.ico" />
+<title>ShowMeSkill</title>
+</head>
+<body style="width: 100vw;height: 100vh;position: relative;overflow: hidden;margin: 0;padding: 0;background: #161616;font-family: Montserrat;">
+<div class="load"></div>
+<div style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<p class="textHere">Здесь пока что пусто!</p>
+<p class="textHereMore">Здесь пока что пусто!<br>Здесь пока что пусто!<br>Здесь пока что пусто!<br>Здесь пока что пусто!<br>Здесь пока что пусто!<br>Здесь пока что пусто!<br></p>
+<img class="pepePhoto" src="../img/sadge.gif">
+</div>
+</body>
+<script>
+function load() {
+	document.querySelector('.load').classList.add('loaded')
+}
+function backback() {
+	window.history.back();
+}
+setTimeout(load, 300)
+
+function back() {
+	setTimeout(backback, 300)
+}
+
+</script>
+</html>

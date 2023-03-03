@@ -1,0 +1,24 @@
+Uri: https://showmeskill.com/
+File Name: C:\Users\vladh\Desktop\showmeskill.com\index.htm
+Content Type: text/html
+
+Uri: https://showmeskill.com/img/Logo.ico
+File Name: C:\Users\vladh\Desktop\showmeskill.com\img\Logo.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://showmeskill.com/styles.css
+File Name: C:\Users\vladh\Desktop\showmeskill.com\styles.css
+Content Type: text/css
+
+Uri: https://showmeskill.com/img/pepe.png
+File Name: C:\Users\vladh\Desktop\showmeskill.com\img\pepe.png
+Content Type: image/png
+
+Uri: https://showmeskill.com/scripts.js
+File Name: C:\Users\vladh\Desktop\showmeskill.com\scripts.js
+Content Type: application/javascript
+
+Uri: https://showmeskill.com/img/mask2.png
+File Name: C:\Users\vladh\Desktop\showmeskill.com\img\mask2.png
+Content Type: image/png
+

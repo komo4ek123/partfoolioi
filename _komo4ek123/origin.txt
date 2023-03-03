@@ -1,0 +1,16 @@
+Uri: https://showmeskill.com/lorfreed/
+File Name: C:\Users\vladh\Desktop\showmeskill.com\lorfreed\index.htm
+Content Type: text/html
+
+Uri: https://showmeskill.com/lorfreed/styles.css
+File Name: C:\Users\vladh\Desktop\showmeskill.com\lorfreed\styles.css
+Content Type: text/css
+
+Uri: https://showmeskill.com/lorfreed/scripts.js
+File Name: C:\Users\vladh\Desktop\showmeskill.com\lorfreed\scripts.js
+Content Type: application/javascript
+
+Uri: https://showmeskill.com/img/mask4.png
+File Name: C:\Users\vladh\Desktop\showmeskill.com\img\mask4.png
+Content Type: image/png
+
